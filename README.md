@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido para a Indicium, a pedido do estúdio de Hollywood PProductions, com o objetivo de analisar um banco de dados cinematográfico e fornecer insights que possam orientar o desenvolvimento de futuros filmes. O projeto busca identificar características de filmes bem-sucedidos e criar um modelo de Machine Learning capaz de prever a nota do IMDB, uma métrica importante para a reputação e potencial de um filme.
+Este projeto foi desenvolvido para a Indicium, a pedido do estúdio de Hollywood PProductions, com o objetivo de analisar um banco de dados cinematográfico e fornecer insights que possam orientar o desenvolvimento de futuros filmes. O projeto busca identificar características de filmes bem sucedidos e criar um modelo de Machine Learning capaz de prever a nota do IMDB, uma métrica importante para a reputação e potencial de um filme.
 
 As etapas incluíram Análise Exploratória de Dados (EDA), pré-processamento de dados, desenvolvimento e avaliação de modelos preditivos (Regressão Linear e Random Forest), previsão para um filme específico e a criação de uma aplicação web simples para demonstração.
 

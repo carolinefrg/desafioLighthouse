@@ -11,7 +11,7 @@ As etapas incluíram Análise Exploratória de Dados (EDA), pré-processamento d
 Este repositório contém os seguintes arquivos e diretórios:
 
 *   `desafio_indicium_imdb.csv`: O dataset original utilizado no projeto.
-*   `seu_notebook.ipynb`: O notebook Google Colab contendo toda a análise, visualizações, código de pré-processamento, modelagem e a aplicação web Gradio. (Substitua `seu_notebook.ipynb` pelo nome real do seu arquivo .ipynb).
+*   `desafioLighthouse.ipynb`: O notebook Google Colab contendo toda a análise, visualizações, código de pré-processamento, modelagem e a aplicação web Gradio. (Substitua `seu_notebook.ipynb` pelo nome real do seu arquivo .ipynb).
 *   `random_forest_imdb_predictor.pkl`: O modelo Random Forest treinado e salvo.
 *   `requirements.txt`: Arquivo listando as bibliotecas Python e suas versões necessárias.
 *   `README.md`: Este arquivo, explicando o projeto.

@@ -20,7 +20,7 @@ Este repositório contém os seguintes arquivos e diretórios:
 
 Para rodar este projeto no ambiente do Google Colab, siga os passos abaixo:
 
-1.  **Abra o notebook:** Faça o upload ou abra o arquivo `seu_notebook.ipynb` no Google Colab.
+1.  **Abra o notebook:** Faça o upload ou abra o arquivo `desafioLighthouse.ipynb` no Google Colab.
 2.  **Execute as células:** Execute todas as células do notebook em ordem, de cima para baixo.
     *   As primeiras células carregarão e farão a limpeza inicial dos dados.
     *   As células seguintes realizarão a Análise Exploratória de Dados (EDA) e a análise da coluna 'Overview'.
@@ -28,7 +28,7 @@ Para rodar este projeto no ambiente do Google Colab, siga os passos abaixo:
     *   As células de modelagem treinarão e avaliarão os modelos de Regressão Linear e Random Forest.
     *   A célula de previsão fará a estimativa da nota do IMDB para um filme específico.
     *   A célula que gera o arquivo `requirements.txt` criará a lista de dependências.
-    *   A célula que inicia a aplicação Gradio (`L80v2W1_DORr`) irá instalar o Gradio (se necessário) e lançar a interface web.
+    *   A célula que inicia a aplicação Gradio irá instalar o Gradio (se necessário) e lançar a interface web.
 3.  **Acesse a Aplicação Gradio:** Após a execução da célula Gradio, um link público temporário será fornecido na saída da célula. Clique neste link para interagir com a aplicação e prever a nota do IMDB para novos filmes.
 
 As dependências necessárias serão instaladas automaticamente durante a execução das células no ambiente Colab.
